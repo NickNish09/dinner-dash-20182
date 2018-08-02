@@ -1,24 +1,5 @@
-# README
+# Projeto do PT 2018/2 - Dinner Dash
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Utilizem esse repositório para clonar as pastas e o padrão de projeto já setado para começar a praticar durante as aulas nesse projeto. Nele serão construídos os HTMLs das páginas, CSS para as mesmas, javascripts, e futuramente quando entrar na parte de rails ele será utilizado para finalizarmos o processo trainee abordando todos os assuntos necessários para se fazer projetos na CJR.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Para clonar ele, utilizem $ git clone https://github.com/NickNish09/dinner-dash-20182
