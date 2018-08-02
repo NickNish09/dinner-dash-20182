@@ -24,3 +24,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.idea/
